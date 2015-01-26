@@ -1,3 +1,8 @@
+---
+title: Capítulo I
+layout: default
+---
+
 # Capítulo I : BASES DE LA INSTITUCIONALIDAD
 
 ## Artículo 1°
