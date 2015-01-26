@@ -1,9 +1,9 @@
 defaults:
   -
     scope:
-      path: "capitulos"
+      path: ""
       type: "pages"
     values:
       layout: "default"
 
-url: http://jrovegno.github.io/AC
+baseurl:: http://jrovegno.github.io/AC
