@@ -6,4 +6,4 @@ defaults:
     values:
       layout: "default"
 
-BASE_PATH : http://jrovegno.github.io/AC
+baseurl : /AC
