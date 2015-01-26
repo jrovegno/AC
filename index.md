@@ -13,6 +13,6 @@ layout: default
 
 {% for page in site.pages %}
     {% if page.flag == 'capitulos' %}
-    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}
 {% endfor %}
