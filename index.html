@@ -49,10 +49,11 @@
         <h3>
 <a id="propuesta-constitucion" class="anchor" href="#propuesta-constitucion" aria-hidden="true"><span class="octicon octicon-link"></span></a>Propuesta Nueva Constitución</h3>
 
+{% assign pages = site.pages %}
 <ul>
-{% for page in site.pages %}
+{% for page in pages %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-{% endfor %}  <!-- page -->
+{% endfor %}
 </ul>
 
       </section>
