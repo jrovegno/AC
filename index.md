@@ -1,6 +1,6 @@
 ---
 title: Indice
-layout: index
+layout: default
 ---
 
 # Propuesta Nueva Constitución
