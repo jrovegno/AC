@@ -1,7 +1,7 @@
 defaults:
   -
     scope:
-      path: "capitulos"
+      path: ""
       type: "pages"
     values:
       layout: "default"
