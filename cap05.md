@@ -1,3 +1,8 @@
+---
+title: Capítulo V
+layout: default
+---
+
 # Capítulo V : CONGRESO NACIONAL
 
 ## Artículo 46°

@@ -1,3 +1,8 @@
+---
+title: Capítulo XII
+layout: default
+---
+
 # Capítulo XII : CONSEJO DE SEGURIDAD NACIONAL
 
 ## Artículo 106°

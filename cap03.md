@@ -1,3 +1,8 @@
+---
+title: Capítulo III
+layout: default
+---
+
 # Capítulo III : DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
 
 ## Artículo 19°

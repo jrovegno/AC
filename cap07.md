@@ -1,3 +1,8 @@
+---
+title: Capítulo VII
+layout: default
+---
+
 # Capítulo VII : MINISTERIO PUBLICO
 
 ## Artículo 83°

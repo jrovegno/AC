@@ -1,3 +1,8 @@
+---
+title: Capítulo IX
+layout: default
+---
+
 # Capítulo IX : JUSTICIA ELECTORAL
 
 ## Artículo 95°

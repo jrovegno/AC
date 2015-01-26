@@ -1,3 +1,8 @@
+---
+title: Capítulo X
+layout: default
+---
+
 # Capítulo X : CONTRALORIA GENERAL DE LA REPUBLICA
 
 ## Artículo 98°

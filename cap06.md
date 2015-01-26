@@ -1,3 +1,8 @@
+---
+title: Capítulo VI
+layout: default
+---
+
 # Capítulo VI : PODER JUDICIAL
 
 ## Artículo 76°

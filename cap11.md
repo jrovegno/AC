@@ -1,3 +1,8 @@
+---
+title: Capítulo XI
+layout: default
+---
+
 # Capítulo XI : FUERZAS ARMADAS, DE ORDEN Y SEGURIDAD PUBLICA
 
 ## Artículo 101°

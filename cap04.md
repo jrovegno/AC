@@ -1,3 +1,8 @@
+---
+title: Capítulo IV
+layout: default
+---
+
 # Capítulo IV : GOBIERNO
 
 ## Presidente de la República

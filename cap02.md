@@ -1,3 +1,8 @@
+---
+title: Capítulo II
+layout: default
+---
+
 # Capítulo II : NACIONALIDAD Y CIUDADANIA
 
 ## Artículo 10°

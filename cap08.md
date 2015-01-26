@@ -1,3 +1,8 @@
+---
+title: Capítulo VIII
+layout: default
+---
+
 # Capítulo VIII TRIBUNAL CONSTITUCIONAL
 
 ## Artículo 92°

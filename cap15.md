@@ -1,3 +1,8 @@
+---
+title: Capítulo XV
+layout: default
+---
+
 # Capítulo XV : REFORMA DE LA CONSTITUCIÓN
 
 ## Artículo 127°
