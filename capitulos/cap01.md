@@ -1,7 +1,6 @@
 ---
 title: Capítulo I : BASES DE LA INSTITUCIONALIDAD
 layout: default
-flag: capitulos
 ---
 
 # Capítulo I : BASES DE LA INSTITUCIONALIDAD
