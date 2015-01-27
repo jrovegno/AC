@@ -1,5 +1,5 @@
 ---
-title: "Capítulo I : BASES DE LA INSTITUCIONALIDAD"
+title: "CAPITULO I : BASES DE LA INSTITUCIONALIDAD"
 layout: default
 ---
 
