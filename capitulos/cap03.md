@@ -1,5 +1,5 @@
 ---
-title: Capítulo III
+title: "CAPITULO III : DE LOS DERECHOS Y DEBERES CONSTITUCIONALES"
 layout: default
 ---
 

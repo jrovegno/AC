@@ -1,5 +1,5 @@
 ---
-title: Capítulo IV
+title: "CAPITULO IV : GOBIERNO"
 layout: default
 ---
 

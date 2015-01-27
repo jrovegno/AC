@@ -1,5 +1,5 @@
 ---
-title: Capítulo XIV
+title: "CAPITULO XIV : GOBIERNO Y ADMINISTRACION INTERIOR DEL ESTADO"
 layout: default
 ---
 

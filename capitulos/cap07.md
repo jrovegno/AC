@@ -1,5 +1,5 @@
 ---
-title: Capítulo VII
+title: "CAPITULO VII : MINISTERIO PUBLICO"
 layout: default
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Capítulo XI
+title: "CAPITULO XI : FUERZAS ARMADAS, DE ORDEN Y SEGURIDAD PUBLICA"
 layout: default
 ---
 

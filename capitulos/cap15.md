@@ -1,5 +1,5 @@
 ---
-title: Capítulo XV
+title: "CAPITULO XV : REFORMA DE LA CONSTITUCIÓN"
 layout: default
 ---
 

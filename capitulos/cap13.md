@@ -1,5 +1,5 @@
 ---
-title: Capítulo XIII
+title: "CAPITULO XIII : BANCO CENTRAL"
 layout: default
 ---
 

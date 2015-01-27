@@ -1,5 +1,5 @@
 ---
-title: Capítulo IX
+title: "CAPITULO IX : JUSTICIA ELECTORAL"
 layout: default
 ---
 

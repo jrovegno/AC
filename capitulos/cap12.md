@@ -1,5 +1,5 @@
 ---
-title: Capítulo XII
+title: "CAPITULO XII : CONSEJO DE SEGURIDAD NACIONAL"
 layout: default
 ---
 

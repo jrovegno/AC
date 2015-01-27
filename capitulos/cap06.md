@@ -1,5 +1,5 @@
 ---
-title: Capítulo VI
+title: "CAPITULO VI : PODER JUDICIAL"
 layout: default
 ---
 

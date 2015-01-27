@@ -1,5 +1,5 @@
 ---
-title: Capítulo X
+title: "CAPITULO X : CONTRALORIA GENERAL DE LA REPUBLICA"
 layout: default
 ---
 

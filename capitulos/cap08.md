@@ -1,5 +1,5 @@
 ---
-title: Capítulo VIII
+title: "CAPITULO VIII : TRIBUNAL CONSTITUCIONAL"
 layout: default
 ---
 
