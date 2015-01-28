@@ -26,8 +26,17 @@ La Constitución asegura a todas las personas:
     Orden y Seguridad Pública, este derecho se regirá, en lo
     concerniente a lo administrativo y disciplinario, por las normas
     pertinentes de sus respectivos estatutos. La ley arbitrará los
-    medios para otorgar asesoramiento y defensa jurídica a quienes no
-    puedan procurárselos por sí mismos. Nadie podrá ser juzgado por
+    medios para otorgar asesoramiento y defensa jurídica a quienes
+    no puedan procurárselos por
+    sí mismos. La ley señalará los casos y establecerá la
+    forma en que las personas naturales víctimas de delitos
+    dispondrán de asesoría y defensa jurídica gratuitas, a
+    efecto de ejercer la acción penal reconocida por esta
+    Constitución y las leyes.
+    Toda persona imputada de delito tiene derecho
+    irrenunciable a ser asistida por un abogado defensor
+    proporcionado por el Estado si no nombrare uno en la
+    oportunidad establecida por la ley. Nadie podrá ser juzgado por
     comisiones especiales, sino por el tribunal que señalare la ley y
     que se hallare establecido por ésta con anterioridad a la
     perpetración del hecho. Toda sentencia de un órgano que ejerza
