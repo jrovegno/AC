@@ -17,18 +17,18 @@
         $('#main_content').headsmart()
       })
     </script>
-    <title>Asamblea Constituyente by jrovegno</title>
+    <title>{{ site.title }} by {{ site.github }}</title>
   </head>
 
   <body>
-    <a id="forkme_banner" href="https://github.com/jrovegno/AC">View on GitHub</a>
+    <a id="forkme_banner" href="https://github.com/{{ site.github }}{{ site.baseurl }}">View on GitHub</a>
     <div class="shell">
 
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1><a href="http://jrovegno.github.io/AC/">Asamblea Constituyente</a></h1>
-            <h2>Nodo de una red colaborativa de Asambleas Constituyentes</h2>
+            <h1><a href="{{ site.production_url }}{{ site.baseurl }}">{{ site.title }}</a></h1>
+            <h2>{{ site.subtitle }}</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -37,7 +37,7 @@
 
       <section id="downloads">
         <span class="inner">
-          <a href="https://github.com/jrovegno/AC/zipball/gh-pages" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/jrovegno/AC/tarball/gh-pages" class="tgz"><em>download</em> .TGZ</a>
+          <a href="https://github.com/{{ site.github }}{{ site.baseurl }}/zipball/gh-pages" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/{{ site.github }}{{ site.baseurl }}/tarball/gh-pages" class="tgz"><em>download</em> .TGZ</a>
         </span>
       </section>
 
@@ -52,7 +52,7 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>this project by <a href="https://github.com/jrovegno">jrovegno</a> can be found on <a href="https://github.com/jrovegno/AC">GitHub</a></p>
+            <p>this project by <a href="https://github.com/{{ site.github }}">{{ site.github }}</a> can be found on <a href="https://github.com/{{ site.github }}{{ site.baseurl }}">GitHub</a></p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
