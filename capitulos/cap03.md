@@ -445,7 +445,7 @@ La Constitución asegura a todas las personas:
 El que por causa de actos u omisiones arbitrarios o ilegales sufra
 privación, perturbación o amenaza en el legítimo ejercicio de los
 derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º
-inciso cuarto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo
+inciso quinto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo
 relativo a la libertad de trabajo y al derecho a su libre elección y
 libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º,
 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre,
