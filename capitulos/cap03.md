@@ -153,16 +153,20 @@ La Constitución asegura a todas las personas:
     desarrollo de la persona en las distintas etapas de su vida. Los
     padres tienen el derecho preferente y el deber de educar a sus
     hijos. Corresponderá al Estado otorgar especial protección al
-    ejercicio de este derecho. Para el Estado es obligatorio promover la
-    educación parvularia y garantizar el acceso gratuito y el
-    financiamiento fiscal al segundo nivel de transición, sin que éste
-    constituya requisito para el ingreso a la educación básica. La
-    educación básica y la educación media son . obligatorias, debiendo
-    el Estado financiar un sistema gratuito con tal objeto, destinado a
-    asegurar el acceso a ellas de toda la población. En el caso de la
-    educación media este sistema, en conformidad a la ley, se extenderá
-    hasta cumplir los 21 años de edad. Corresponderá al Estado,
-    asimismo, fomentar el desarrollo de la educación en todos sus
+    ejercicio de este derecho. Para el Estado es obligatorio promover
+    la educación parvularia, para lo que financiará un sistema gratuito
+    a partir del nivel medio menor, destinado a asegurar el acceso
+    a éste y sus niveles superiores. El segundo nivel de
+    transición es obligatorio, siendo requisito para el ingreso
+    a la educación básica.
+    La educación básica y la educación media son
+    obligatorias, debiendo el Estado financiar un sistema
+    gratuito con tal objeto, destinado a asegurar el acceso a
+    ellas de toda la población. En el caso de la educación
+    media este sistema, en conformidad a la ley, se extenderá
+    hasta cumplir los 21 años de edad.
+    Corresponderá al Estado, asimismo, fomentar el
+    desarrollo de la educación en todos sus
     niveles; estimular la investigación científica y tecnológica, la
     creación artística y la protección e incremento del patrimonio
     cultural de la Nación. Es deber de la comunidad contribuir al
