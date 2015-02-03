@@ -1,4 +1,4 @@
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "DTO-100_22-SEP-2005.txt"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "bnc"]
 highlighter: pygments
 
 
