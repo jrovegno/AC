@@ -1,4 +1,4 @@
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "bnc", ".gitignore"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "bcn", ".gitignore"]
 highlighter: pygments
 
 
